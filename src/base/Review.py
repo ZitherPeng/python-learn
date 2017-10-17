@@ -1,7 +1,7 @@
 # coding:utf-8
 class superList(list):
 
-# 这个方法类继承了 List 类，添加了对 “-” 的定义
+    # 这个方法类继承了 List 类，添加了对 “-” 的定义
     def __sub__(self, b):
         a = self[:]
         b = b[:]
