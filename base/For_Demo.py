@@ -1,4 +1,4 @@
-for a in [3,4.4,'life']:
+for a in [3, 4.4, 'life']:
     print a
 
 Index = range(5)

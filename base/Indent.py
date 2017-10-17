@@ -4,4 +4,4 @@ y = 0
 if i > 0:
     x = 1
     y = 2
-print(x,y)
+print(x, y)
