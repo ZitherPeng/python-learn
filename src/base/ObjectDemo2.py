@@ -2,7 +2,7 @@ class Human(object):
     laugh = 'hahahaha'
 
     def show_laugh(self):
-        print self.laugh
+        print (self.laugh)
 
     def laugh_10th(self):
         for i in range(10):
