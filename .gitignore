@@ -102,3 +102,6 @@ ENV/
 
 # vacode
 .vscode
+.vscode/
+.idea
+.idea/

@@ -1,10 +1,10 @@
 for a in [3, 4.4, 'life']:
-    print a
+    print (a)
 
 Index = range(5)
-print Index
+print (Index)
 
 i = 2
 while i < 10:
-    print i
+    print (i)
     i = i + 1

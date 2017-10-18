@@ -25,5 +25,5 @@ class Oriole(Bird):
 
 
 summer = Chicken()
-print summer.have_feather
-print summer.move(5, 8)
+print (summer.have_feather)
+print (summer.move(5, 8))
